@@ -17,6 +17,11 @@ Customer Support Agent is an AI-powered chatbot designed to handle customer inqu
 - Database integration for storing chat history
 - Secure authentication and API handling
 
+## SYSTEM-DESIGN
+
+![CUSTOMER-SUPPORT-AGENT](https://github.com/user-attachments/assets/99c7022c-a967-4329-b990-30c022be0ccd)
+
+
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite
 - **Backend:** FastAPI, Python
