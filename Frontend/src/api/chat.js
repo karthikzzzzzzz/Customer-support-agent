@@ -1,7 +1,7 @@
 const getResponse = async (userMessage)=>{
     try {
         console.log(userMessage);
-        const response = await fetch('http://localhost:8000/chat-completions', {
+        const response = await fetch('http://localhost:8000/chat-completions', { //specify your localhost url
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
