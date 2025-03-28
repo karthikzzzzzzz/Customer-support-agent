@@ -53,7 +53,7 @@ docker-compose up --build
 ```
 
 ## 📜 Environment Variables
-Create a `.env` file and configure the required API keys(OpenAI KEY) and database credentials.
+Create a `.env` file and configure the required API keys(OpenAI KEY).
 
 ## 📖 Usage
 - Open `http://localhost:3000` to access the chatbot UI.
